@@ -1,4 +1,3 @@
-# Asegura que los archivos mp4 se traten como binarios
+# Tratar archivos mp4 como binarios
 *.mp4 binary
-* text=auto
 
