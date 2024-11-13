@@ -1,3 +1,4 @@
 *.mp4 binary
+*.mp4 -text
 * text=auto
 
